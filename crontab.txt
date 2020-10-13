@@ -1,0 +1,5 @@
+Steps to create Crontab.
+crontab -e command is to create the crontab.
+0	8	*	*	*  	/path and script
+(min)      (hrs)          (date)      (months)     (days of 
+				week)

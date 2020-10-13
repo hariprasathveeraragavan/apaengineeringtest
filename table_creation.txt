@@ -1,0 +1,6 @@
+CREATE TABLE `apabirthday` (
+  `dob` date NOT NULL,
+  `emp_name` varchar(50) NOT NULL,
+  `emp_img` longblob NOT NULL,
+  `emp_mail_id` varchar(75) NOT NULL
+) 
